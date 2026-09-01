@@ -61,7 +61,10 @@
 
 ## 📸 Скриншоты
 
-*(сюда вставь скриншоты — инструкция ниже)*
+<img width="1919" height="1079" alt="Снимок экрана 2026-09-01 204344" src="https://github.com/user-attachments/assets/390a913b-d265-4aad-95bc-2c5b63b7d3cd" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-09-01 204454" src="https://github.com/user-attachments/assets/71b1688b-05e4-47ff-9c1b-c904c440cb83" />
+<img width="1919" height="1079" alt="Снимок экрана 2026-09-01 204956" src="https://github.com/user-attachments/assets/594c6f8f-2b53-4c5b-8e01-29b68375465a" />
+<img width="1917" height="1079" alt="Снимок экрана 2026-09-01 205019" src="https://github.com/user-attachments/assets/9df5f9f4-9abf-4700-aee0-21203873f49f" />
 
 ---
 
