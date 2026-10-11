@@ -1,5 +1,5 @@
 # <img width="288" height="288" alt="Картинка игры" src="https://github.com/user-attachments/assets/92a28b0e-ed46-4942-9145-6afa1b135b4b" />
-👻  Lost In Top — Demo
+## **👻  Lost In Top — Demo**
 
 **Lost In Top** — хоррор-игра от первого лица, разработанная на **Unreal Engine 5** с использованием **C++**.
 Проект создан в рамках проектной работы в колледже «Академия ТОП».
